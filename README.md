@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 🎨 UX/UI Designer <br>
 👩‍💻 HTML/CSS <br>
 📍 Based in Seoul

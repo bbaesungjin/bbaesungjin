@@ -1,4 +1,7 @@
 ### Hi there 👋
+🎨 UX/UI Designer
+👩‍💻 HTML/CSS
+📍 Based in Seoul
 
 <!--
 **bbaesungjin/bbaesungjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

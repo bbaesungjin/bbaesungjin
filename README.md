@@ -3,7 +3,7 @@
 👩‍💻 HTML/CSS <br>
 📍 Based in Seoul <br>
 
-https://team.postype.com/post/6927368
+[포스타입 브랜드 리뉴얼하기 #2](https://team.postype.com/post/6927368)
 
 <!--
 **bbaesungjin/bbaesungjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

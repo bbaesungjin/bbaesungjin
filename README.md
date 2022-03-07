@@ -2,6 +2,7 @@
 🎨 UX/UI Designer <br>
 👩‍💻 HTML/CSS <br>
 📍 Based in Seoul <br>
+📚 [비핸스](https://www.behance.net/bsj6673) <br>
 
 [포스타입 브랜드 리뉴얼하기 #2](https://team.postype.com/post/6927368) <br>
 [포스타입 UX 디자이너의 앱 출시 A to Z](https://team.postype.com/post/11672419)
